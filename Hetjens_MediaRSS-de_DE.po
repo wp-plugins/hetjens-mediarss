@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hetjens MediaRSS\n"
+"POT-Creation-Date: 2010-05-15 12:56+0100\n"
+"PO-Revision-Date: 2010-05-15 15:35+0100\n"
+"Last-Translator: Philip Hetjens <philip@hetjens.eu>\n"
+"Language-Team: Philip Hetjens <philip@hetjens.eu>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+msgid "Adds post thumbnails to feeds via MediaRSS specification."
+msgstr "Fügt das Minaturbild in Feeds ein via MediaRSS-Spezifikation."
+
