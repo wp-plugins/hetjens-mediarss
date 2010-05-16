@@ -5,12 +5,18 @@ Requires at least: 2.9.0
 Tested up to: 2.9.2
 Stable tag: 0.1
 
-This plug-in adds the post thumbnail of articles to the RSS and Atom-Feed via MediaRSS secification.
+This plug-in adds the post thumbnail of articles to the RSS and Atom-Feed via Media RSS specification.
 
 == Description ==
-This plug-in adds the post thumbnail of articles to the RSS and Atom feed via MediaRSS secification. You need nothing to
-configure. If a post thumbnail is definied, it will add it to the feed entry/item. Some RSS-Reader, like Friendfeed or
-the Facebook Notes App (to import RSS feeds to Facebook) will recognize that thumbnail and display it.
+This plug-in adds the post thumbnail of articles to the RSS and Atom feed via Media RSS (MRSS) specification. Media RSS was
+invented by Yahoo as an extension to RSS feeds used for syndicating multimedia files (audio, video, image). This
+plug-in adds the post thumbnail defined by author of the article to RSS and Atom feeds of the blog. This plug-in
+activates the post thumbnail feature of Wordpress, if the theme is not doing it. It is enough to activate the plug-in
+to work, it has no configuration parameters.
+
+MediaRSS is a nice addition to your blog if you want to syndicate your content to other platforms. More and more
+platforms and RSS feed readers support it. The Notes App of Facebook recognize the post thumbnail and displays it in
+every newsfeed item.
 
 == Installation ==
 
@@ -21,4 +27,4 @@ the Facebook Notes App (to import RSS feeds to Facebook) will recognize that thu
 == Changelog ==
 
 = 0.1 =
-* First Plugin directory version
+* First directory version
